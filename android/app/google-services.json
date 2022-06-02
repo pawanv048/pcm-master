@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "73029043314",
+    "project_id": "posturecoreandmore-db756",
+    "storage_bucket": "posturecoreandmore-db756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73029043314:android:117b6297e26d27c9c06eeb",
+        "android_client_info": {
+          "package_name": "com.posturecoreandmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73029043314-8s44quclovh38bb0sq89jgofm5pp2ucn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEy_wV2xhxbvjHJJsmPc3B3ZNROt60Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73029043314-8s44quclovh38bb0sq89jgofm5pp2ucn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73029043314-4ar0r9adiu3pud2lj9j9tata1gsgg75o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.posturecoreandmore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
